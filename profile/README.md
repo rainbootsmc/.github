@@ -1,1 +1,1 @@
-<h2 align="center">A Minecraft modern shooter server</h2>
+<h1 align="center">A Minecraft modern shooter server</h1>
